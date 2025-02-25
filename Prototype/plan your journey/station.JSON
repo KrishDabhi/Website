@@ -1,0 +1,992 @@
+{
+    "Udhna Darwaja": [
+        "11: Udhana Darwaja - Sachin GIDC Junction",
+        "11: Udhana Darwaja - Sachin GIDC Junction (Reverse)",
+        "20: Kosad EWS H2 to Kharwar Nagar",
+        "20: Kosad EWS H2 to Kharwar Nagar (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Kharwar Nagar": [
+        "11: Udhana Darwaja - Sachin GIDC Junction",
+        "11: Udhana Darwaja - Sachin GIDC Junction (Reverse)",
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)",
+        "20: Kosad EWS H2 to Kharwar Nagar",
+        "20: Kosad EWS H2 to Kharwar Nagar (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Satya Nagar": [
+        "11: Udhana Darwaja - Sachin GIDC Junction",
+        "11: Udhana Darwaja - Sachin GIDC Junction (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Udhna Tran Rasta": [
+        "11: Udhana Darwaja - Sachin GIDC Junction",
+        "11: Udhana Darwaja - Sachin GIDC Junction (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Udhana GSRTC": [
+        "11: Udhana Darwaja - Sachin GIDC Junction",
+        "11: Udhana Darwaja - Sachin GIDC Junction (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Udhna Academy Collage": [
+        "11: Udhana Darwaja - Sachin GIDC Junction",
+        "11: Udhana Darwaja - Sachin GIDC Junction (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Laxmi Narayan Temple": [
+        "11: Udhana Darwaja - Sachin GIDC Junction",
+        "11: Udhana Darwaja - Sachin GIDC Junction (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Daksheshwar Mahadev": [
+        "11: Udhana Darwaja - Sachin GIDC Junction",
+        "11: Udhana Darwaja - Sachin GIDC Junction (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "VT Podar Collage": [
+        "11: Udhana Darwaja - Sachin GIDC Junction",
+        "11: Udhana Darwaja - Sachin GIDC Junction (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Kamnath Mahadev": [
+        "11: Udhana Darwaja - Sachin GIDC Junction",
+        "11: Udhana Darwaja - Sachin GIDC Junction (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Navin Flourine": [
+        "11: Udhana Darwaja - Sachin GIDC Junction",
+        "11: Udhana Darwaja - Sachin GIDC Junction (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Bhestan Naher": [
+        "11: Udhana Darwaja - Sachin GIDC Junction",
+        "11: Udhana Darwaja - Sachin GIDC Junction (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Bhagwati Industrial Estate": [
+        "11: Udhana Darwaja - Sachin GIDC Junction",
+        "11: Udhana Darwaja - Sachin GIDC Junction (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Bhestan": [
+        "11: Udhana Darwaja - Sachin GIDC Junction",
+        "11: Udhana Darwaja - Sachin GIDC Junction (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Unn Naka": [
+        "11: Udhana Darwaja - Sachin GIDC Junction",
+        "11: Udhana Darwaja - Sachin GIDC Junction (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Unn Industrial Estate": [
+        "11: Udhana Darwaja - Sachin GIDC Junction",
+        "11: Udhana Darwaja - Sachin GIDC Junction (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Unn Char Rasta": [
+        "11: Udhana Darwaja - Sachin GIDC Junction",
+        "11: Udhana Darwaja - Sachin GIDC Junction (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Green Park": [
+        "11: Udhana Darwaja - Sachin GIDC Junction",
+        "11: Udhana Darwaja - Sachin GIDC Junction (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Sachin GIDC": [
+        "11: Udhana Darwaja - Sachin GIDC Junction",
+        "11: Udhana Darwaja - Sachin GIDC Junction (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "ONGC Colony": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)",
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)"
+    ],
+    "Magdalla Gam": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)",
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)"
+    ],
+    "Y Junction Dumas Road": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)",
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)"
+    ],
+    "Y-Junction Udhna-Magdalla Road": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Maharana Pratap": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "S.D. Jain School": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "J.H.Ambani School": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Someshwar Junction": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "V.N.S.G. University": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "VNSGU Convention Hall": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Centre for Social Studies": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Anuvrat Dwar East": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Anuvrat Dwar Wast": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Panas Gam Junction": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Ishwar Farm Junction": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Jamna Nagar Junction": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Rupali Junction": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Prajapita Brahmakumari Marg": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Unique Hospital": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Khatodara G.I.D.C.": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Samrat Vidhyalay": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Model Town Junction": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Parvat Patiya": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Amezia Amusement Park": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)",
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)",
+        "19: Railway Station TER to Kadodara",
+        "19: Railway Station TER to Kadodara (Reverse)"
+    ],
+    "Vishwakarma Junction": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Bhaiya Nagar": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Puna Gam Junction": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Puna Saroli Junction": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Vanmali Junction (West)": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Vanmali Junction": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Simada Naher Junction": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Simada Junction": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Yogi Nagar": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Swagat Society": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "SMVS Swaminarayan Temple": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)"
+    ],
+    "Sarathana Nature Park": [
+        "12: ONGC Colony to Sarathana Nature Park",
+        "12: ONGC Colony to Sarathana Nature Park (Reverse)",
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "22: Kosad EWS H2 to Sarathana Nature Park",
+        "22: Kosad EWS H2 to Sarathana Nature Park (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Jahangirpura Community Hall": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Dr S.P. Mukherji Bridge": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)"
+    ],
+    "Dabholi Gam": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)"
+    ],
+    "SMVS Swaminarayan Temple (Dabholi)": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)"
+    ],
+    "Shree Sahajanand Chowk": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)"
+    ],
+    "Bapasitaram Chowk": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)"
+    ],
+    "Hare Krishna Circle": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)"
+    ],
+    "SMC North Zone": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)"
+    ],
+    "Gajera Circle": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)",
+        "20: Kosad EWS H2 to Kharwar Nagar",
+        "20: Kosad EWS H2 to Kharwar Nagar (Reverse)"
+    ],
+    "Fulpada Road": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)"
+    ],
+    "Shree Swaminarayan Mandir Rustam Bag": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)"
+    ],
+    "Vallabhacharya Road": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)"
+    ],
+    "Hirabag": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)"
+    ],
+    "DGVCL Urja Sadan": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)",
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "18: Railway Station TER to Utran R.O.B Bridge",
+        "18: Railway Station TER to Utran R.O.B Bridge (Reverse)",
+        "22: Kosad EWS H2 to Sarathana Nature Park",
+        "22: Kosad EWS H2 to Sarathana Nature Park (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Rachana Circle": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)"
+    ],
+    "Lambe Hanuman Road": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)"
+    ],
+    "Anjani Boot Bhavani": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)"
+    ],
+    "Sitanagar": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)"
+    ],
+    "Magob Gam": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Bhakti Dham": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "19: Railway Station TER to Kadodara",
+        "19: Railway Station TER to Kadodara (Reverse)"
+    ],
+    "Vishwakarma Madir": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "19: Railway Station TER to Kadodara",
+        "19: Railway Station TER to Kadodara (Reverse)"
+    ],
+    "Cancer Hospital": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "19: Railway Station TER to Kadodara",
+        "19: Railway Station TER to Kadodara (Reverse)"
+    ],
+    "Saroli": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "19: Railway Station TER to Kadodara",
+        "19: Railway Station TER to Kadodara (Reverse)"
+    ],
+    "Kumbhariya Gaam": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "19: Railway Station TER to Kadodara",
+        "19: Railway Station TER to Kadodara (Reverse)"
+    ],
+    "Sabar Gaam": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "19: Railway Station TER to Kadodara",
+        "19: Railway Station TER to Kadodara (Reverse)"
+    ],
+    "Antroli": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "19: Railway Station TER to Kadodara",
+        "19: Railway Station TER to Kadodara (Reverse)"
+    ],
+    "Vareli Gaam": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "19: Railway Station TER to Kadodara",
+        "19: Railway Station TER to Kadodara (Reverse)"
+    ],
+    "Kadodara": [
+        "13: Jahangirpura Community Hall to Kadodara",
+        "13: Jahangirpura Community Hall to Kadodara (Reverse)",
+        "19: Railway Station TER to Kadodara",
+        "19: Railway Station TER to Kadodara (Reverse)"
+    ],
+    "Magdalla T-Junction": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)"
+    ],
+    "Rundhnath Mahadev Temple": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)"
+    ],
+    "Govardhan Nathji Haveli": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)"
+    ],
+    "Lancers Army School": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)"
+    ],
+    "Piplod": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)"
+    ],
+    "Kargil Chowk": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)"
+    ],
+    "SVNIT": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)"
+    ],
+    "Umra Gaam": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)"
+    ],
+    "Pal R.T.O.": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)"
+    ],
+    "Sanjeev Kumar Auditorium": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)"
+    ],
+    "Adajan Gam": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)"
+    ],
+    "Anand Mahal Road": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)"
+    ],
+    "Swaminarayan Chowk": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)"
+    ],
+    "Adajan Patiya": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)"
+    ],
+    "Shankheshwar Chowk": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Navyug College": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "SMC West Zone Office": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Tadwadi": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Palanpur Patiya": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Ramnagar": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Mora Bhagal": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Pandit Shyamji Krishna Verma Bridge": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)",
+        "20: Kosad EWS H2 to Kharwar Nagar",
+        "20: Kosad EWS H2 to Kharwar Nagar (Reverse)"
+    ],
+    "Amroli Char Rasta": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)",
+        "20: Kosad EWS H2 to Kharwar Nagar",
+        "20: Kosad EWS H2 to Kharwar Nagar (Reverse)",
+        "22: Kosad EWS H2 to Sarathana Nature Park",
+        "22: Kosad EWS H2 to Sarathana Nature Park (Reverse)"
+    ],
+    "Amroli Cross Road": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)",
+        "20: Kosad EWS H2 to Kharwar Nagar",
+        "20: Kosad EWS H2 to Kharwar Nagar (Reverse)",
+        "22: Kosad EWS H2 to Sarathana Nature Park",
+        "22: Kosad EWS H2 to Sarathana Nature Park (Reverse)"
+    ],
+    "Kosad Fire Station": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)",
+        "20: Kosad EWS H2 to Kharwar Nagar",
+        "20: Kosad EWS H2 to Kharwar Nagar (Reverse)",
+        "22: Kosad EWS H2 to Sarathana Nature Park",
+        "22: Kosad EWS H2 to Sarathana Nature Park (Reverse)"
+    ],
+    "Kosad Housing Board": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)",
+        "20: Kosad EWS H2 to Kharwar Nagar",
+        "20: Kosad EWS H2 to Kharwar Nagar (Reverse)",
+        "22: Kosad EWS H2 to Sarathana Nature Park",
+        "22: Kosad EWS H2 to Sarathana Nature Park (Reverse)"
+    ],
+    "Kosad Depot": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)"
+    ],
+    "Kosad EWS H1": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)",
+        "20: Kosad EWS H2 to Kharwar Nagar",
+        "20: Kosad EWS H2 to Kharwar Nagar (Reverse)",
+        "22: Kosad EWS H2 to Sarathana Nature Park",
+        "22: Kosad EWS H2 to Sarathana Nature Park (Reverse)"
+    ],
+    "Kosad EWS H2": [
+        "14: ONGC Colony to Kosad EWS H2",
+        "14: ONGC Colony to Kosad EWS H2 (Reverse)",
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)",
+        "20: Kosad EWS H2 to Kharwar Nagar",
+        "20: Kosad EWS H2 to Kharwar Nagar (Reverse)",
+        "22: Kosad EWS H2 to Sarathana Nature Park",
+        "22: Kosad EWS H2 to Sarathana Nature Park (Reverse)"
+    ],
+    "data is not available": [
+        "15: Someshver Junction to Someshver Junction",
+        "15: Someshver Junction to Someshver Junction (Reverse)"
+    ],
+    "Magob Parvat Khadi Bridge": [
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Parvat Gam": [
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Devadh Gam Road": [
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Jai Jogani Mata Chowk": [
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Aaspas Dada Temple": [
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Mangal Pandey Hall": [
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Maharana Pratap Bridge": [
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Dindoli Khawasa Road": [
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Dindoli Varighruh": [
+        "16: Kosad Depot to Dindoli Varigruh",
+        "16: Kosad Depot to Dindoli Varigruh (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Kamrej Terminal": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Shyam Nagar": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Pasodara Gam": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Diamond Vidhya Sankul": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Diamond Nagar": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "DGVCL Laskana Gam": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Laskana Gam": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Swaminarayan Mission - Valak Gam": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Sagwadi": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Shyamdham Mandir": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Purushottam Nagar": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Nana Varachha Police Station": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "22: Kosad EWS H2 to Sarathana Nature Park",
+        "22: Kosad EWS H2 to Sarathana Nature Park (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Maharana Pratap Garden": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "22: Kosad EWS H2 to Sarathana Nature Park",
+        "22: Kosad EWS H2 to Sarathana Nature Park (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Nana Varachha Vari Gruh": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "22: Kosad EWS H2 to Sarathana Nature Park",
+        "22: Kosad EWS H2 to Sarathana Nature Park (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Kapodra Fire Station": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "22: Kosad EWS H2 to Sarathana Nature Park",
+        "22: Kosad EWS H2 to Sarathana Nature Park (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "SMC Kapodra Ward Office": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "22: Kosad EWS H2 to Sarathana Nature Park",
+        "22: Kosad EWS H2 to Sarathana Nature Park (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Shreemad Vallabhacharya Chowk": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "18: Railway Station TER to Utran R.O.B Bridge",
+        "18: Railway Station TER to Utran R.O.B Bridge (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Baroda Pristage": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "18: Railway Station TER to Utran R.O.B Bridge",
+        "18: Railway Station TER to Utran R.O.B Bridge (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Mangadh Chowk": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "18: Railway Station TER to Utran R.O.B Bridge",
+        "18: Railway Station TER to Utran R.O.B Bridge (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Central Ware House": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "18: Railway Station TER to Utran R.O.B Bridge",
+        "18: Railway Station TER to Utran R.O.B Bridge (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "SMC Varachha Health Centre": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "18: Railway Station TER to Utran R.O.B Bridge",
+        "18: Railway Station TER to Utran R.O.B Bridge (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Railway Station TER": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "18: Railway Station TER to Utran R.O.B Bridge",
+        "18: Railway Station TER to Utran R.O.B Bridge (Reverse)",
+        "19: Railway Station TER to Kadodara",
+        "19: Railway Station TER to Kadodara (Reverse)",
+        "20: Kosad EWS H2 to Kharwar Nagar",
+        "20: Kosad EWS H2 to Kharwar Nagar (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Kabir Mandir Rampura": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "20: Kosad EWS H2 to Kharwar Nagar",
+        "20: Kosad EWS H2 to Kharwar Nagar (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Gotalawadi": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "20: Kosad EWS H2 to Kharwar Nagar",
+        "20: Kosad EWS H2 to Kharwar Nagar (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Katargam Darwaja": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "20: Kosad EWS H2 to Kharwar Nagar",
+        "20: Kosad EWS H2 to Kharwar Nagar (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Chandra Shekhar Azad Bridge Approach Katargam": [
+        "17: Kamrej Terminal to Pal R.T.O.",
+        "17: Kamrej Terminal to Pal R.T.O. (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Shree Swami Dayanand Saraswati Bridge": [
+        "18: Railway Station TER to Utran R.O.B Bridge",
+        "18: Railway Station TER to Utran R.O.B Bridge (Reverse)",
+        "22: Kosad EWS H2 to Sarathana Nature Park",
+        "22: Kosad EWS H2 to Sarathana Nature Park (Reverse)"
+    ],
+    "Utran R.O.B Bridge": [
+        "18: Railway Station TER to Utran R.O.B Bridge",
+        "18: Railway Station TER to Utran R.O.B Bridge (Reverse)",
+        "22: Kosad EWS H2 to Sarathana Nature Park",
+        "22: Kosad EWS H2 to Sarathana Nature Park (Reverse)"
+    ],
+    "Linear Bus Stop": [
+        "19: Railway Station TER to Kadodara",
+        "19: Railway Station TER to Kadodara (Reverse)",
+        "20: Kosad EWS H2 to Kharwar Nagar",
+        "20: Kosad EWS H2 to Kharwar Nagar (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Golden Point": [
+        "19: Railway Station TER to Kadodara",
+        "19: Railway Station TER to Kadodara (Reverse)",
+        "20: Kosad EWS H2 to Kharwar Nagar",
+        "20: Kosad EWS H2 to Kharwar Nagar (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Sahara Darwaja": [
+        "19: Railway Station TER to Kadodara",
+        "19: Railway Station TER to Kadodara (Reverse)",
+        "20: Kosad EWS H2 to Kharwar Nagar",
+        "20: Kosad EWS H2 to Kharwar Nagar (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)",
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Smimer Hospital": [
+        "19: Railway Station TER to Kadodara",
+        "19: Railway Station TER to Kadodara (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "APMC Sardar Market": [
+        "19: Railway Station TER to Kadodara",
+        "19: Railway Station TER to Kadodara (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Aai Mata Chowk": [
+        "19: Railway Station TER to Kadodara",
+        "19: Railway Station TER to Kadodara (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Shree Sant Kheteshwar Circle": [
+        "19: Railway Station TER to Kadodara",
+        "19: Railway Station TER to Kadodara (Reverse)",
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Puna Canal": [
+        "19: Railway Station TER to Kadodara",
+        "19: Railway Station TER to Kadodara (Reverse)"
+    ],
+    "Dr S.P. Mukherji Lake": [
+        "20: Kosad EWS H2 to Kharwar Nagar",
+        "20: Kosad EWS H2 to Kharwar Nagar (Reverse)"
+    ],
+    "Katar Gam": [
+        "20: Kosad EWS H2 to Kharwar Nagar",
+        "20: Kosad EWS H2 to Kharwar Nagar (Reverse)"
+    ],
+    "Pandesara G.I.D.C.": [
+        "21: Jahangirpura Community Hall to Pandesara GIDC",
+        "21: Jahangirpura Community Hall to Pandesara GIDC (Reverse)"
+    ],
+    "Paliwal": [
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Sachin GIDC Naka": [
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ],
+    "Sachin Railway Station": [
+        "23: Kamrej Terminal to Sachin Railway Station",
+        "23: Kamrej Terminal to Sachin Railway Station (Reverse)"
+    ]
+}

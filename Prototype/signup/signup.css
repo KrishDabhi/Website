@@ -1,0 +1,184 @@
+/* General Styles */
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    overflow-x: hidden;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5); /* Fallback background color */
+}
+
+/* Background Image */
+.background-image {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('signup_img.jpg'); /* Replace with your image */
+    background-size: cover;
+    background-position: center;
+    filter: blur(0.2px); /* Optional blur effect */
+    z-index: -1;
+}
+
+/* Auth Container */
+main.auth-container {
+    max-width: 400px;
+    padding: 30px;
+    background-color: rgba(118, 174, 185, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    position: absolute;
+    top: 50%; /* Center vertically */
+    left: 20px; /* Align to the left of the screen */
+    transform: translateY(-50%); /* Adjust for vertical centering */
+}
+
+/* Logo */
+.logo {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.flix {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #008000; /* Green */
+    display: inline-block;
+    letter-spacing: 5.5px;
+}
+
+/* Heading */
+.auth-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.9em;
+    color: #2d2d2d;
+    font-weight: 600;
+}
+
+/* Form Group */
+.auth-form .form-group {
+    margin-bottom: 10px;
+}
+
+/* Form Labels */
+.auth-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 1.0em;
+    color: #313131;
+}
+
+/* Form Inputs */
+.auth-form input {
+    width: calc(100% - 1px);
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #adadad;
+    border-radius: 5px;
+    box-sizing: border-box;
+    transition: border-color 0.1s;
+    margin-bottom: 10px;
+}
+
+/* Focused Input */
+.auth-form input:focus {
+    outline: none;
+    border-color: #008000;
+}
+
+/* Invalid Input */
+.auth-form input.invalid {
+    border-color: red;
+}
+
+/* Submit Button */
+.auth-button {
+    width: 40%;
+    padding: 10px;
+    font-size: 1em;
+    background-color: #038f03; /* Green */
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px auto 0;  /* Auto margin on both sides for horizontal centering */
+    display: block;  /* Makes the button a block-level element */
+    transition: background-color 0.1s;
+}
+
+.auth-button:hover {
+    background-color: #006400; /* Darker green on hover */
+}
+
+/* Success Message */
+.success-message {
+    display: none;
+    background-color: #28a745;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+}
+
+.success-message i {
+    margin-right: 10px;
+}
+
+/* Text Links */
+.auth-container p {
+    text-align: center;
+    font-size: 1.0em;
+    margin-top: 15px;
+    color: #313131;
+}
+
+.auth-container p a {
+    font-size: 1.1em;
+    color: #037e13;
+    text-decoration: none;
+}
+
+/* Privacy Policy */
+.privacy-policy {
+    text-align: center;
+    font-size: 0.75em;
+    color: #313131;
+    margin-top: 10px;
+}
+
+.privacy-policy a {
+    color: #008000;
+    text-decoration: none;
+}
+
+/* Responsive Styles */
+@media (max-width: 600px) {
+    main.auth-container {
+        width: 90%;
+        margin: 200px auto;
+        left: -1000px; /* Adjust left for smaller screens */
+    }
+
+    .flix {
+        font-size: 2em;
+    }
+
+    .auth-container h2 {
+        font-size: 1.2em;
+    }
+
+    .auth-form input {
+        font-size: 0.9em;
+    }
+
+    .auth-button {
+        font-size: 0.9em;
+    }
+
+    .auth-container p {
+        font-size: 0.9em;
+    }
+}

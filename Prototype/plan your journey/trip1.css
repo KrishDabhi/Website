@@ -1,0 +1,309 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #007B5F;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+}
+
+.navbar .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links li {
+    display: inline;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 600;
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    transition: color 0.3s ease;
+}
+
+.nav-links a::after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #ffdd57;
+    z-index: -1;
+    transition: top 0.3s ease-in-out;
+}
+
+.nav-links a:hover::after {
+    top: 0;
+}
+
+.nav-links a:hover {
+    color: #333;
+}
+
+/* Hero Section */
+.hero {
+    position: relative; /* Needed for the pseudo-element */
+    background-image: url('01.jpg'); /* Replace with your image URL */
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+    color: rgb(1, 124, 52);
+    padding: 50px 0;
+    text-align: center;
+}
+
+.hero h2 {
+    margin-top: 1px;
+    font-size: 2.2rem;
+    margin-bottom: 20px;
+}
+
+.search-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: rgba(0, 0, 0, 0.5); /* Add transparency to darken the background */
+    border-radius: 10px;
+}
+
+.search-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #ffffff;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.input-field, .date-input {
+    display: flex;
+    align-items: center;
+    position: relative;
+    flex: 3;
+}
+
+.input-field i, .date-input i {
+    position: absolute;
+    left: 10px;
+    font-size: 1.2rem;
+}
+
+.input-field input, .date-input input {
+    width: 100%;
+    padding: 10px 15px 10px 35px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    border: 1.5px solid #ddd;
+}
+
+.swap-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 15px;
+}
+
+.swap-icon i {
+    font-size: 1.5rem;
+    color: #007B5F;
+}
+
+.search-button {
+    background-color: rgb(1, 124, 52); /* Red button */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.search-button:hover {
+    background-color: #0baa23;
+}
+
+input:focus {
+    border-color: #007B5F;
+    outline: none;
+}
+
+
+/* Quick Links */
+.quick-links {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    margin: 50px 0;
+}
+
+.quick-links button {
+    background-color: transparent;
+    border: 1.9px solid #007B5F;
+    padding: 10px 60px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    border-radius: 6px;
+    color: #007B5F;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    transition: color 0.2s;
+}
+
+.quick-links button::before {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #007B5F;
+    z-index: -1;
+    transition: top 0.2s ease;
+}
+
+.quick-links button:hover::before {
+    top: 0;
+}
+
+.quick-links button:hover {
+    color: white;
+}
+
+/* Features Section */
+.features {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 30px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.feature-item {
+    text-align: center;
+    background: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.feature-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.feature-item i {
+    color: #007B5F;
+    margin-bottom: 15px;
+    font-size: 1.8rem;
+}
+
+/* Info Section */
+.info {
+    margin: 30px 20px;
+}
+
+.info-item {
+    margin-bottom: 20px;
+}
+
+.info-item h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #007B5F;
+}
+
+.info-item p {
+    font-size: 1rem;
+    color: #444;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 30px 20px;
+}
+
+.footer-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 20px;
+}
+
+.footer-column h3 {
+    margin-bottom: 15px;
+    color: #007B5F;
+}
+
+.footer-column ul {
+    list-style: none;
+}
+
+.footer-column ul li {
+    margin-bottom: 10px;
+}
+
+.footer-column ul li a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-column ul li a:hover {
+    color: #007B5F;
+}
+
+.footer-social {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 15px 0;
+}
+
+.footer-social a {
+    color: white;
+    font-size: 1.5rem;
+    transition: color 0.3s ease;
+}
+
+.footer-social a:hover {
+    color: #007B5F;
+}
+
+.footer-bottom {
+    text-align: center;
+    font-size: 0.9rem;
+    border-top: 1px solid #555;
+    margin-top: 20px;
+    padding-top: 15px;
+}

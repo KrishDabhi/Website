@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up | Public Transportation System</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="signup.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+        integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <div class="background-image"></div>
+    <main class="auth-container">
+        <div class="logo">
+            <span class="flix">Public Transportation System</span>
+        </div>
+        <h2>Sign Up</h2>
+        <form id="signup-form" class="auth-form">
+            <div class="form-group">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <div class="form-group">
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required>
+            </div>
+            <div class="form-group">
+                <label for="confirm-password">Confirm Password:</label>
+                <input type="password" id="confirm-password" name="confirm-password" required>
+            </div>
+            <button type="submit" class="auth-button">Sign Up</button>
+            <p>Already have an account? <a href="../signin/signin1.html">Sign In</a></p>
+            <div class="privacy-policy">
+                <p>Your account data will be processed in accordance to our <a href="#">Privacy Policy</a></p>
+            </div>
+            <div class="success-message" id="success-message">
+                <i class="fa fa-check-circle"></i> Sign Up Successful!
+            </div>
+        </form>
+        <div id="file-path" style="color: white; margin-top: 20px;"></div>
+    </main>
+    <script src="signup.js"></script>
+</body>
+
+</html>
