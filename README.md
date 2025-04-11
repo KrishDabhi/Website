@@ -21,6 +21,6 @@ This website provides real-time transit schedules, interactive web application, 
 
 ## Technologies Used
 
-- **HTML5 & CSS3:** For structuring and styling the website.
-- **JavaScript:** For dynamic interactions and fetching live data.
-- **API Integration:** To fetch real-time transit data of google apps scripts, fetching the real time location.
+- **HTML5 & CSS3 :** For structuring and styling the website.
+- **JavaScript :** For dynamic interactions and fetching live data.
+- **API Integration :** To fetch real-time transit data of google apps scripts, fetching the real time location.
